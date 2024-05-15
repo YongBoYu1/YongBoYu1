@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YongBoYu1
-- 👀 I’m interested in Machine Learning, Data Science
+- 👋 YongBoYu
+- 👀 Interested in Machine Learning, Data Science
 - 🌱 Master of Applied Data Science at the University of Victoria, Canada
 - 📫 How to reach me yongbo9852@gmail.com
 
