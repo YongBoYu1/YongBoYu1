@@ -10,6 +10,10 @@ He focuses on agent systems, LLM workflows, and AI-native development with Codex
 - Machine-readable resume: https://yongbo-yu.vercel.app/resume.json
 - LinkedIn: https://www.linkedin.com/in/yongboyu
 
+## Open tools
+
+**[resume-mcp](https://github.com/YongBoYu1/resume-mcp)** — a local stdio MCP server that answers grounded questions about YongBo Yu from his public `resume.json` and reputation site (source URLs on every tool response). Built for Cursor / Claude MCP clients.
+
 ## Canonical project evidence
 
 **KiloDock** is a gym operating system independently built by YongBo Yu (Demo status).
@@ -27,3 +31,4 @@ Evidence for each item is on the site above, not private repositories.
 - **TradingAgents** — multi-agent trading framework
 - **Enterprise RAG** — retrieval agent platform
 - **Scotiabank** — data science (insurance and mortgage propensity workflows)
+- **resume-mcp** — public MCP server for resume / site evidence
