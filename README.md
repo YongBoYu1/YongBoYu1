@@ -12,7 +12,7 @@ He focuses on agent systems, LLM workflows, and AI-native development with Codex
 
 ## Open tools
 
-**[resume-mcp](https://github.com/YongBoYu1/resume-mcp)** — a local stdio MCP server that answers grounded questions about YongBo Yu from his public `resume.json` and reputation site (source URLs on every tool response). Built for Cursor / Claude MCP clients.
+**[resume-mcp](https://github.com/YongBoYu1/resume-mcp)** — local stdio MCP: fetch/cache public `resume.json` + `llms.txt`, return tool answers with source URLs (Cursor / Claude).
 
 ## Canonical project evidence
 
@@ -31,4 +31,4 @@ Evidence for each item is on the site above, not private repositories.
 - **TradingAgents** — multi-agent trading framework
 - **Enterprise RAG** — retrieval agent platform
 - **Scotiabank** — data science (insurance and mortgage propensity workflows)
-- **resume-mcp** — public MCP server for resume / site evidence
+- **resume-mcp** — stdio MCP with citable public resume.json tools
